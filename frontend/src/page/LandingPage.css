@@ -1,0 +1,24 @@
+/* LandingPage.css */
+
+.landing-container {
+    position: relative;
+  }
+  
+  /* Center content horizontally and vertically */
+  .bg-cover.bg-center.min-h-screen.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center the text within the div */
+  }
+  
+  /* Optional: Adjust font styles */
+  .display-4 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+  }
+  
